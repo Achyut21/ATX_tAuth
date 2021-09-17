@@ -1,5 +1,5 @@
-# ATX_Auth
-\n An to app to learn basics of android studio.
+## ATX_Auth
+#An to app to learn basics of android studio.
 Features..
   1.) Authentication through firebase
   2.)SplashScreen
